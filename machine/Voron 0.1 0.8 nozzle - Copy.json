@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Voron 0.1 0.8 nozzle",
+    "is_custom_defined": "0",
+    "name": "Voron 0.1 0.8 nozzle - Copy",
+    "print_host": "voron-v0.local",
+    "printer_settings_id": "Voron 0.1 0.8 nozzle - Copy",
+    "version": "2.0.2.0"
+}

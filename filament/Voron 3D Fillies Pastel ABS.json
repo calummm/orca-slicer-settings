@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#008080"
+    ],
+    "filament_flow_ratio": [
+        "0.94"
+    ],
+    "filament_settings_id": [
+        "Voron 3D Fillies Pastel ABS"
+    ],
+    "filament_vendor": [
+        "3D Fillies"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Voron 3D Fillies Pastel ABS",
+    "version": "2.1.0.0"
+}

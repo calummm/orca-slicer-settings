@@ -1,0 +1,22 @@
+{
+    "default_filament_colour": [
+        "#00FF00"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "Voron 3D Fillies Lime ABS"
+    ],
+    "filament_vendor": [
+        "3D Fillies"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Voron 3D Fillies Lime ABS",
+    "version": "2.1.0.0"
+}

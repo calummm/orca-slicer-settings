@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "Voron Generic TPU - Copy"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "45"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "45"
+    ],
+    "inherits": "Voron Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Voron Generic TPU - Copy",
+    "version": "2.0.2.0"
+}
